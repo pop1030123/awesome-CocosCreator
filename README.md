@@ -19,8 +19,8 @@ Cocos Creator 资源合集
 
 #### 成品
 ---
-* facebook迷宫 https://github.com/NorhsArk/Cocos_Mazes
-* facebook麻将 https://github.com/NorhsArk/Cocos_MahjongBump
+* facebook迷宫 https://github.com/NorhsArk/Cocos_Mazes  (404)
+* facebook麻将 https://github.com/NorhsArk/Cocos_MahjongBump (404)
 * facebook一笔画2 https://github.com/NorhsArk/Cocos_OneDraw2
 * facebook打枪 https://github.com/NorhsArk/Cocos_LastGun
 * facebook迷宫变种 https://github.com/NorhsArk/Cocos_MazesCross
@@ -30,7 +30,7 @@ Cocos Creator 资源合集
 * facebook拼盘 https://github.com/NorhsArk/Cocos_FunnySlice
 * facebook纸牌2048 https://github.com/NorhsArk/Cocos_2048Solitare
 * facebook方块十消 https://github.com/NorhsArk/Cocos_1010
-* 大富翁 https://github.com/NorhsArk/CashEmpire
+* 大富翁 https://github.com/NorhsArk/CashEmpire (404)
 ---
 * 七彩蹦蹦 [https://github.com/shichaohui/ColorUp](https://github.com/shichaohui/ColorUp)
 * 六边形消除 https://github.com/WuBuzi/LBXGame
